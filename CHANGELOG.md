@@ -1,3 +1,5 @@
+# [1.16.0](https://github.com/piriyewkerem/study_2025-2026_os-intro/compare/v1.15.0...v1.16.0) (2026-10-12)
+
 # [1.15.0](https://github.com/piriyewkerem/study_2025-2026_os-intro/compare/v1.14.0...v1.15.0) (2026-10-12)
 
 # [1.14.0](https://github.com/piriyewkerem/study_2025-2026_os-intro/compare/v1.13.0...v1.14.0) (2026-10-12)
